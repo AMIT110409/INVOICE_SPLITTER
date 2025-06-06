@@ -4,7 +4,7 @@ Invoice Splitter 📄
 
 Invoice Splitter is a Python application that splits multi-invoice PDF files into individual invoices, using blank pages as separators. Built for a hackathon on June 5, 2025, this project features a sleek Streamlit GUI and a powerful CLI, making it ideal for both end-users and developers. It leverages advanced PDF processing to ensure accurate splitting, even with scanned documents.
 
-<img width="954" alt="image" src="https://github.com/user-attachments/assets/127a9fdf-b27b-422e-9b7b-c152e949e156" />
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/b2ab424c-6864-4b86-ae19-505b1e017a92" />
 
 
 

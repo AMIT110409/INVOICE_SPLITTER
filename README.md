@@ -7,7 +7,7 @@ Invoice Splitter is a Python application that splits multi-invoice PDF files int
 
 🚀 Quick Start
 
-Clone the Repo:git clone https://github.com/yourusername/invoice_splitter.git
+Clone the Repo:git clone https://github.com/AMIT110409/INVOICE_SPLITTER.git
 cd invoice_splitter
 
 
